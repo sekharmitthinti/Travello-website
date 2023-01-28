@@ -1,0 +1,12 @@
+body
+{
+    background-color: #846445;
+    font-family: 'Times New Roman', Times, serif;
+}
+table
+{
+    background-color:rgba(179, 179, 179, 0.77);
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    height:150px;
+}
